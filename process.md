@@ -60,7 +60,7 @@ unfortunatlry i leave on a trip jul 3 and will not be bringing my laptop. it was
 
 alrighty starting with post!
 
-<img src="./process/ex_post.png" width="200" title="post ">
+<img src="./process/ex_post.png" width="400" title="post ">
 
 Im gonna say these are the sections user/post info, post, post interaction buttons, # likes, caption, comment section. 
 
@@ -69,7 +69,7 @@ I'm noticing that the web app doesnt show any comments even if there are many wh
 Both the 'more' button and actual comment button completly open up the post where there is still only a preview of the comments (doesnt render ALL of them) you can scroll to render more
 
 
-<img src="./process/ex_comments.png" width="200" title="post comment button interactable">
+<img src="./process/ex_comments.png" width="600" title="post comment button interactable">
 
 aside: damn amazon has some ANNOYINGly long links for image uploads
 
