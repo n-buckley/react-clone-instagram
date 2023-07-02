@@ -1,0 +1,66 @@
+
+
+.Post { 
+    width: 40vmin;
+    max-width: 40vmin;
+    background-color: black;
+    height:fit-content;
+    font-size: 1vmin;
+    margin: 1vmin;
+}
+
+.Post-header {
+    height: 5vmin;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.Header-pfp {
+    display: flex;
+    align-items: center;
+    margin: 1vmin;
+}
+
+.pfp {
+    width: 2vmin;
+    border-radius: 100%;
+}
+
+
+.Header-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info { 
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.Header-location {
+    justify-content: flex-start;
+}
+
+.Post-text {
+    display: flex;
+    margin-left: 1vmin;
+}
+
+.Post-body { 
+    /* hieght is the height of the image ... ish?  */
+}
+
+.Post-image {
+    max-width: 40vmin; /* This needs to be abstracted, same as .Post width*/
+}
+
+.Post-footer {
+    /* if caption is expanded then the ENTIRE post size becomes larger the comment section doesnt just increase */
+    height: 10vmin; 
+}
+
+
